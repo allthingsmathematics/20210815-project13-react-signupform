@@ -2,6 +2,7 @@
 import {useReducer} from "react";
 import './App.css';
 
+
 const initialState = {
   name: '',
   email: '',
